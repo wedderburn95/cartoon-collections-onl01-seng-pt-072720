@@ -26,5 +26,3 @@ def find_the_cheese(potentially_cheesy_items)
     cheeses.include?(maybe_cheese)
   end
 end
-
-find_the_cheese(potentially_cheesy_items)
